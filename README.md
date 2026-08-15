@@ -42,11 +42,13 @@ Feel free to explore my repositories, where you’ll find projects that showcase
   <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" title="Power BI" alt="Power BI" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/powerbi" title="Power BI" alt="Power BI" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/excel/excel-original.svg" title="Excel" alt="Excel" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/microsoft" title="Power Query" alt="Power Query" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="40" height="40"/>  
+<img src="https://cdn.simpleicons.org/microsoftexcel" title="Excel" alt="Excel" width="40" height="40"/>
+
+<img src="https://cdn.simpleicons.org/microsoftsqlserver" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="40" height="40"/>  
 </div>
 
 ---
