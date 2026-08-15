@@ -20,7 +20,9 @@
 ### :woman_technologist: About Me :
 Hi there! 👋
 
-I’m a Data Science enthusiast with a strong foundation in statistics and data analysis. In my current role, I’ve gained hands-on experience in collecting and analyzing performance data for HVAC systems. I’m actively pursuing a Data Science certificate at the University of Toronto’s Data Sciences Institute, where I’m building expertise in Shell, Git, Python, SQL, Linear Regression, Classification, and Resampling, Sampling, Visualization, and Machine Learning.
+I'm a Business Data Analyst with a strong foundation in Statistics and Data Analysis, currently working with business and sales data to uncover trends, answer business questions, and support data-driven decision-making.
+
+In my current role, I work with SQL, Power BI, Power Query, Excel, and Python to clean and transform data, analyze business performance, develop interactive reports, and turn raw data into meaningful insights. 
 
 Feel free to explore my repositories, where you’ll find projects that showcase my work in data analysis, machine learning, and statistical modeling. I’m always eager to connect, collaborate, and learn from others in the data science community!
 
